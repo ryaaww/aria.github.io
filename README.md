@@ -7,9 +7,9 @@
 </head>
 <body>
 
-
+<header>
     <h1>Portfolio Saya</h1>
-
+</header>
 
 <header>
         <h2>Tentang Saya</h2>
@@ -38,10 +38,10 @@
         <p>Jika ada yang ingin ditanyakan terkait diatas, anda dapat menghubungi saya melalui email: <a href="mailto:ariacoserr@gmail.com">ariacoserr@gmail.com</a></p>
 </header>
 </div>
-
-<footer>
+<head>
+<header>
     &copy; 2024 Portfolio Saya
-</footer>
-
+</header>
+</head>
 </body>
 </html>
