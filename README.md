@@ -7,9 +7,7 @@
 </head>
 <body>
 
-<header>
-    <h1>Portfolio Saya</h1>
-</header>
+
 
 <header>
         <h2>Tentang Saya</h2>
