@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
 </head>
 <body>
 
-
+<img src="IMG_20240521_221228.jpg">
 
 <header>
         <h2>Tentang Saya</h2>
