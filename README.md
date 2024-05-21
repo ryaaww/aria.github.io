@@ -7,7 +7,7 @@
 </head>
 <body>
 
-![alt text](?raw=true)
+![alt text](https://github.com/ryaaww/aria.github.io/blob/main/IMG_20240521_221228.jpg?raw=true)
 
 <header>
         <h2>Tentang Saya</h2>
