@@ -34,7 +34,6 @@
         </div>
     </div>
 
-    <div class="section" id="contact">
         <h2>Kontak</h2>
         <p>Jika ada yang ingin ditanyakan terkait diatas, anda dapat menghubungi saya melalui email: <a href="mailto:ariacoserr@gmail.com">ariacoserr@gmail.com</a></p>
     </div>
