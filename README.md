@@ -11,11 +11,10 @@
     <h1>Portfolio Saya</h1>
 </header>
 
-<div class="container">
-    <div class="section" id="about">
+<header>
         <h2>Tentang Saya</h2>
         <p>Halo, nama saya Aria Kinoshita. Nama "Aria" diambil dari nama lengkap asliku. Dan "Kinoshita" diambil dari nama marga di Jepang/character anime. Saya adalah seorang cosplayer dengan keahlian dalam menggambar. Saya suka menciptakan hal yang menarik dan membangun kepercayaan diri.</p>
-    </div>
+</header>
 
     <div class="section" id="projects">
         <h2>Apa sih itu cosplayer?</h2>
