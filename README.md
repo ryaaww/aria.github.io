@@ -16,12 +16,12 @@
         <p>Halo, nama saya Aria Kinoshita. Nama "Aria" diambil dari nama lengkap asliku. Dan "Kinoshita" diambil dari nama marga di Jepang/character anime. Saya adalah seorang cosplayer dengan keahlian dalam menggambar. Saya suka menciptakan hal yang menarik dan membangun kepercayaan diri.</p>
 </header>
 
-    <div class="section" id="projects">
+<header>
         <h2>Apa sih itu cosplayer?</h2>
-        <div class="project">
-            <div class="project-item">
                 <h3>Deskripsi tentang cosplay</h3>
                 <p>Arti Cosplay sendiri merupakan gabungan kata dari costume (kostum) dan play (bermain). Cosplay adalah sebuah kegiatan di mana seseorang mengenakan kostum, riasan wajah, dan berperan menyerupai karakter fiksi, seperti anime, manga, video game hingga film favorit mereka.</p>
+</header>
+            </div
             </div>
             <div class="project-item">
                 <h3>Tujuan dan manfaat cosplay</h3>
