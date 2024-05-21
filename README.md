@@ -40,7 +40,6 @@
 </div>
 <head>
 <header>
-    &copy; 2024 Portfolio Saya
 </header>
 </head>
 </body>
