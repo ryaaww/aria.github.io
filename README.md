@@ -7,7 +7,7 @@
 </head>
 <body>
 
-![alt text](https://github.dev/ryaaww/aria.github.io/blob/main/README.md?raw=true)
+![alt text](?raw=true)
 
 <header>
         <h2>Tentang Saya</h2>
